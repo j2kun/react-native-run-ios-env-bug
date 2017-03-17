@@ -1,0 +1,8 @@
+{
+  "presets": [
+    "react-native"
+  ],
+  "plugins": [
+    ["babel-plugin-react-native-config", { envfile: ".env" }]
+  ]
+}
